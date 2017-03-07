@@ -49,11 +49,16 @@ table {
 */
 
 body {
+
     background:  #1a2833;
     color: #888;
     font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     height: 100%;
     margin: 0
+    background: -webkit-linear-gradient(to right, #06C2F4, #FF8642);
+    background: -moz-linear-gradient(to right, #06C2F4, #FF8642);
+    background: linear-gradient(to right, #06C2F4, #FF8642);
+
 }
 
 
@@ -68,10 +73,6 @@ body {
 }
 
 .row-alt {
-    background: #cbe2c1;
-    background: -webkit-linear-gradient(to right, #06C2F4, #FF8642);
-    background: -moz-linear-gradient(to right, #06C2F4, #FF8642);
-    background: linear-gradient(to right, #06C2F4, #FF8642);
     padding: 44px 0 22px 0;
 }
 
