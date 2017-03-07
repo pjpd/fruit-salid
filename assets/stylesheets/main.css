@@ -74,9 +74,9 @@ body {
 
 .row-alt {
     background: #cbe2c1;
-    background: -webkit-linear-gradient(to right, #a1d3b0, #f6f1d3);
-    background: -moz-linear-gradient(to right, #a1d3b0, #f6f1d3);
-    background: linear-gradient(to right, #a1d3b0, #f6f1d3);
+    background: -webkit-linear-gradient(to right, #003366, #000, #003366);
+    background: -moz-linear-gradient(to right, #003366, #000, #003366);
+    background: linear-gradient(to right, #003366, #000, #003366);
     padding: 44px 0 22px 0;
 }
 
@@ -149,22 +149,6 @@ cite, em {
 
 /*
   ========================================
-  Leads
-  ========================================
-*/
-
-.lead {
-    text-align: center;
-}
-
-.lead p {
-    font-size: 21px;
-    line-height: 33px;
-}
-
-
-/*
-  ========================================
   Links
   ========================================
 */
@@ -219,20 +203,6 @@ p a {
 }
 
 
-
-
-
-/*
-  ========================================
-  Navigation
-  ========================================
-*/
-
-.nav {
-    text-align: right;
-}
-
-
 /*
   ========================================
   Home
@@ -249,10 +219,6 @@ p a {
 .hero p {
     font-size: 20px;
     font-weight: 100;
-}
-
-.teaser a:hover h3 {
-    color: #a9b2b9;
 }
 
 .display-off {
