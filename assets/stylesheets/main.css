@@ -74,9 +74,9 @@ body {
 
 .row-alt {
     background: #cbe2c1;
-    background: -webkit-linear-gradient(to right, #003366, #000, #003366);
-    background: -moz-linear-gradient(to right, #003366, #000, #003366);
-    background: linear-gradient(to right, #003366, #000, #003366);
+    background: -webkit-linear-gradient(to right, #06C2F4, #FF8642);
+    background: -moz-linear-gradient(to right, #06C2F4, #FF8642);
+    background: linear-gradient(to right, #06C2F4, #FF8642);
     padding: 44px 0 22px 0;
 }
 
