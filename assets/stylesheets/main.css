@@ -63,12 +63,7 @@ body {
   ========================================
 */
 
-.row, .row-alt {
-    min-width: 960px;
-}
-
 .row {
-    background: #fff;
     padding: 66px 0 44px 0;
 }
 
